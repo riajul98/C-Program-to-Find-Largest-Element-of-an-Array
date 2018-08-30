@@ -1,0 +1,12 @@
+Output
+
+Enter total number of elements(1 to 100): 8
+
+Enter Number 1: 23.4
+Enter Number 2: -34.5
+Enter Number 3: 50
+Enter Number 4: 33.5
+Enter Number 5: 55.5
+Enter Number 6: 43.7
+Enter Number 7: 5.7
+Enter Number 8: -66.5
